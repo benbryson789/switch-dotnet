@@ -1,0 +1,13 @@
+C:\repos\switchchsharp\obj\Debug\netcoreapp3.1\switchchsharp.csprojAssemblyReference.cache
+C:\repos\switchchsharp\obj\Debug\netcoreapp3.1\switchchsharp.AssemblyInfoInputs.cache
+C:\repos\switchchsharp\obj\Debug\netcoreapp3.1\switchchsharp.AssemblyInfo.cs
+C:\repos\switchchsharp\obj\Debug\netcoreapp3.1\switchchsharp.csproj.CoreCompileInputs.cache
+C:\repos\switchchsharp\bin\Debug\netcoreapp3.1\switchchsharp.exe
+C:\repos\switchchsharp\bin\Debug\netcoreapp3.1\switchchsharp.deps.json
+C:\repos\switchchsharp\bin\Debug\netcoreapp3.1\switchchsharp.runtimeconfig.json
+C:\repos\switchchsharp\bin\Debug\netcoreapp3.1\switchchsharp.runtimeconfig.dev.json
+C:\repos\switchchsharp\bin\Debug\netcoreapp3.1\switchchsharp.dll
+C:\repos\switchchsharp\bin\Debug\netcoreapp3.1\switchchsharp.pdb
+C:\repos\switchchsharp\obj\Debug\netcoreapp3.1\switchchsharp.dll
+C:\repos\switchchsharp\obj\Debug\netcoreapp3.1\switchchsharp.pdb
+C:\repos\switchchsharp\obj\Debug\netcoreapp3.1\switchchsharp.genruntimeconfig.cache
